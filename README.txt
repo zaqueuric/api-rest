@@ -1,4 +1,4 @@
-[CURSO:API-REST] (https://www.youtube.com/watch?v=TGbiY6015Wg&list=PLWgD0gfm500EMEDPyb3Orb28i7HK5_DkR&index=3)
+[CURSO:API-REST] (https://www.youtube.com/watch?v=1ww5okv2DE0&list=PLWgD0gfm500EMEDPyb3Orb28i7HK5_DkR&index=4)
 [README.md] (https://blog.rocketseat.com.br/como-fazer-um-bom-readme/)
 
 README command
@@ -66,3 +66,10 @@ README command
 ## 3 - Project three: Rotas
     3.1 - As rotas serão adicionadas em /routes/arquivoderota
     3.2 - As rotas serão chamadas em app.js
+
+## 4 - Install nodemom : dependencia de desenvolvimento, atualiza automaticamente o servidor
+       Tem que setar nos scripts do package.json
+    4.1 - npm install --save-dev nodemom
+
+## 5 - Install morgan
+    5.1 - npm install --save morgan
